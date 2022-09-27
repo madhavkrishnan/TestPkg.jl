@@ -1,0 +1,6 @@
+[deps]
+python = ">=3.5,<4"
+
+
+[pip.deps]
+pip-install-test = ""
